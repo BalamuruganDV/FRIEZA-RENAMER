@@ -7,27 +7,28 @@
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
-            "value": ""
+            "value": "9021318"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org ",
-            "value": ""
+            "value": "5f59092c3ed13eeb338bb0322e1d112f"
         },
         "FORCE_SUB": {
             "description": "Your force sub channel user name without [@] ",
-            "value": "",
+            "value": "Hotstar_Vip_Movies",
             "required": false 
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""
+            "value": "5454780684:AAE2aDO-Z22a1EQf8I5VFoGqDjPMxMpjHKw"
         },
         "ADMIN": {
-            "description":"Add Your User ID multiple is use space to split"
+            "description":"Add Your User ID multiple is use space to split",
+            "value": "5015055732"
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": ""
+            "value": "mongodb+srv://luna:luna@cluster0.405do.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
@@ -36,7 +37,7 @@
         },
         "START_PIC": {
             "description": "Your Bot start cmd Pic from @MT_TelegraPH_Bot",
-            "value": "",
+            "value": "https://telegra.ph/file/df860aa380f7d858500ba.jpg",
             "required": false
         }
     },
